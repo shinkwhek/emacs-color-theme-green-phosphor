@@ -43,7 +43,7 @@
 (custom-theme-set-faces
  'green-phosphor
 
- '(default          ((t (:foreground "LimeGreen" :background "#001100" :inherit nil))))
+ '(default          ((t (:foreground "LimeGreen" :background "#000000" :inherit nil))))
  '(fringe           ((t (:background "#001100"))))
  '(cursor           ((t (:background "red"))))
  '(highlight        ((t (:foreground "black" :background "green"))))
